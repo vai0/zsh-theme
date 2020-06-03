@@ -1,13 +1,13 @@
 LCHAR_WIDTH=%1G
 
 # Choose you delimiter
-LCHAR='➤'
+LCHAR='➜'
+#LCHAR='➤'
 #LCHAR='➣'
 #LCHAR='⇥'
 #LCHAR='➤'
 #LCHAR='»'
 #LCHAR='#'
-#LCHAR='➜'
 #LCHAR='$'
 #LCHAR='▶'
 #LCHAR='ᐅ'
